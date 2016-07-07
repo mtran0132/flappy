@@ -1,6 +1,7 @@
 #Flappy Bird
-*Rudimentary* Flappy Bird
+_Rudimentary_ Flappy Bird
 This was my final project for CSULB CECS 174 Fall Semester 2014
+
 
 #Controls
 * You press space to jump up. 
